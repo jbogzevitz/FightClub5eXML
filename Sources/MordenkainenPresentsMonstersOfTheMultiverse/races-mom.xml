@@ -16,7 +16,8 @@
             <text>You are Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.</text>
         <trait>
             <name>Age</name>
-            <text>The typical life span of a player character in the D&D multiverse is about a century, assuming th character doesn't meet a viloent end on an adventure.</text>
+            <text>The typical life span of a player character in the D&amp;D multiverse is about a century, assuming the character doesn't meet a violent end on an adventure.</text>
+        </trait>
         </trait>
         <trait>
             <name>Alignment</name>
