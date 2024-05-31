@@ -33,10 +33,11 @@
         <trait>
             <name>Fey Ancestry</name>
             <text>You have advantage on saving throws you make to avoid or end the charmed condition on yourself.</text>
-        </trait
+        </trait>
         <trait>
             <name>Fury of the Small</name>
-            <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus. You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.</text>
+            <text>When you damage a creature with an attack or a spell and the creature's size is larger than yours, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your proficiency bonus.</text> 
+            <text>You can use this trait a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest, and you can use it no more than once per turn.</text>
         </trait>
         <trait>
             <name>Nimble Escape</name>
