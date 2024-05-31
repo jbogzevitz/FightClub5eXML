@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <spell>
+      <name>Acid Splash</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Chill Touch</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Guidance</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Light</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Mending</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Message</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Poison Spray</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Resistance</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Shocking Grasp</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Spare the Dying</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Thaumaturgy</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Alarm</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Comprehend Languages</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Create or Destroy Water</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Cure Wounds</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Detect Evil and Good</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Detect Magic</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Detect Poison and Disease</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>False Life</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Feather Fall</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Floating Disk</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Fog Cloud</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Grease</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Healing Word</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Hideous Laughter</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Identify</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Illusory Script</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Jump</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Purify Food and Drink</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Sleep</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Unseen Servant</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Acid Arrow</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Aid</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Blindness/Deafness</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Enhance Ability</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Enlarge/Reduce</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Gentle Repose</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Hold Person</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Lesser Restoration</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Protection from Poison</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Ray of Enfeeblement</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>See Invisibility</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Silence</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Spider Climb</name>
+    <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Web</name>
+    <classes>Apothecary</classes>
+    </spell>
+
+</compendium>
