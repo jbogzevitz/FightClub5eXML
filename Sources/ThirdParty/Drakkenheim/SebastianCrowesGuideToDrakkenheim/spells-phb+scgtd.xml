@@ -110,7 +110,7 @@
     </spell>
     <spell>
       <name>Jump</name>
-    <classes>Apothecary</classes>
+    <classes>Apothecary, Apothecary (Mutagenist)</classes>
     </spell>
     <spell>
       <name>Purify Food and Drink</name>
@@ -129,6 +129,10 @@
     <classes>Apothecary</classes>
     </spell>
     <spell>
+      <name>Alter Self</name>
+    <classes>Apothecary (Mutagenist)</classes>
+    </spell>
+    <spell>
       <name>Aid</name>
     <classes>Apothecary</classes>
     </spell>
@@ -138,7 +142,7 @@
     </spell>
     <spell>
       <name>Enhance Ability</name>
-    <classes>Apothecary</classes>
+    <classes>Apothecary, Apothecary (Mutagenist)</classes>
     </spell>
     <spell>
       <name>Enlarge/Reduce</name>
@@ -179,6 +183,26 @@
     <spell>
       <name>Web</name>
     <classes>Apothecary</classes>
+    </spell>
+    <spell>
+      <name>Haste</name>
+    <classes>Apothecary, Apothecary (Mutagenist)</classes>
+    </spell>
+    <spell>
+      <name>Water Breathing</name>
+    <classes>Apothecary, Apothecary (Mutagenist)</classes>
+    </spell>
+    <spell>
+      <name>Polymorph</name>
+    <classes>Apothecary, Apothecary (Mutagenist)</classes>
+    </spell>
+    <spell>
+      <name>Stoneskin</name>
+    <classes>Apothecary, Apothecary (Mutagenist)</classes>
+    </spell>
+    <spell>
+      <name>Reincarnate</name>
+    <classes>Apothecary (Mutagenist)</classes>
     </spell>
 
 </compendium>
