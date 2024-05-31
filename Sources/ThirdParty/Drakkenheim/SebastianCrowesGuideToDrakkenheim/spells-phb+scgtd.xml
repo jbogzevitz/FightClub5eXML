@@ -81,7 +81,7 @@
     <classes>Apothecary</classes>
     </spell>
     <spell>
-      <name>Floating Disk</name>
+      <name>Tenser's Floating Disk</name>
     <classes>Apothecary</classes>
     </spell>
     <spell>
@@ -97,7 +97,7 @@
     <classes>Apothecary</classes>
     </spell>
     <spell>
-      <name>Hideous Laughter</name>
+      <name>Tasha's Hideous Laughter</name>
     <classes>Apothecary</classes>
     </spell>
     <spell>
@@ -125,7 +125,7 @@
     <classes>Apothecary</classes>
     </spell>
     <spell>
-      <name>Acid Arrow</name>
+      <name>Melf's Acid Arrow</name>
     <classes>Apothecary</classes>
     </spell>
     <spell>
