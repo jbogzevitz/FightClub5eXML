@@ -1,0 +1,396 @@
+<?xml version='1.0' encoding='utf-8'?>
+<compendium version="5" auto_indent="NO">
+    <class>
+      <name>Apothecary</name>
+    <hd>8</hd>
+    <proficiency>Intelligence, Wisdom, Arcana, History, Investigation, Medicine, Nature, Religion</proficiency>
+    <numSkills>2</numSkills>
+    <spellAbility>Intelligence</spellAbility>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Starting Apothecary</name>
+        <text>As a 1st-level Apothecary, you begin play with 8+your Constitution modifier hit points.</text>
+        <text></text>
+        <text>You are proficient with the following items, in addition to any proficiencies provided by your race or background.</text>
+        <text>• Armor: light, medium</text>
+        <text>• Weapons: simple, short swords, hand crossbows</text>
+        <text>• Tools: any tool proficiency, plus another of your choice from the following: poisoner's ket, herbalism kit, or alchemist's supplies.</text>
+        <text>• Skills: Choose 2 from Arcana, History, Investigation, Medicine, Nature, Religion</text>
+        <text></text>
+        <text>You begin play with the following equipment, in addition to any equipment provided by your background.</text>
+        <text>• a light crossbow and crossbow bolts (20), (a) a shortsword (b) or any simple weapon</text>
+        <text>• (a) a component pouch or (b) an arcane focus</text>
+        <text>• (a) a scholar's pack or (b) a dungeoneer's pack</text>
+        <text>• Hide armor, any simple weapon, and two dagger</text>
+        <text>• A healer's kit</text>
+        <text></text>
+        <text>Alternatively, you may start with 4d4 x 10 gp and choose your own equipment.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 132</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Multiclass Apothecary</name>
+        <text>To multiclass as a Warlock, you must meet the following prerequisites:</text>
+        <text>• Intelligence 13</text>
+        <text></text>
+        <text>You gain the following proficiencies:</text>
+        <text>• Armor: light</text>
+        <text></text>
+        <text>• Tools: one tool proficiency of your choice</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+    </autolevel>
+    <armor>light, medium</armor>
+    <weapons>simple, short swords, hand crossbows</weapons>
+    <tools>any tool proficiency, plus another of your choice from the following: poisoner's ket, herbalism kit, or alchemist's supplies.</tools>
+    <wealth>4d4x10</wealth>
+    <autolevel level="1">
+        <slots>3</slots>
+    </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Apothecary Magic</name>
+        <text>Your arcane research has given you facility with spells. Refer to the Core Rules for the general rules of spellcasting and the Spells Listing in this book for the apothecary spell list.</text>
+        <text></text>
+        <text>Formula Book</text>
+        <text>You have a book or collection of notes that you study to prepare your apothecary spells, develop your esoteric theories, and record your occult practices. You may use your formula book as an arcane focus for your apothecary spells. You may describe this book any way you like. Some examples of your book’s appearance include:</text>
+        <text>• A large leatherbound tome with yellowing pages bound shut with an iron lock</text>
+        <text>• A scattered assortment of scribbled notes loosely held together by rope</text>
+        <text>• A pristine journal with perfect edges and beautiful penmanship</text>
+        <text>• A leather briefcase with two small golden locks</text>
+        <text>• A medical bag with surgical symbols on the sides</text>
+        <text>• A beat-up satchel slung over one shoulder with vials and bottles poking out of every pocket</text>
+        <text>If the book is destroyed or lost, you can recreate it using inks and paper during a long rest.</text>
+        <text></text>
+        <text>Cantrips:</text>
+        <text>   You know three cantrips of your choice from the apothecary spell list. You learn additional apothecary cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Apothecary table.</text>
+        <text>   Elementary Reformulation: Whenever you finish a long rest and consult your formula book, you can replace one apothecary cantrip you know with another cantrip from the apothecary spell list.</text>
+        <text></text>
+        <text>Spell Slots:</text>
+        <text>   The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.</text>
+        <text>   For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell witch bolt, you must spend one of those slots, and you cast it as a 3rd-level spell.</text>
+        <text></text>
+        <text>Preparing and Casting Spells:</text>
+        <text>  The Apothecary table shows how many spell slots you have to cast your apothecary spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your apothecary spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.</text>
+        <text>  You prepare the list of apothecary spells that are available for you to cast, choosing from the apothecary spell list. When you do so, choose a number of apothecary spells equal to your Intelligence modifier + your apothecary level (minimum of one spell). A spell you prepare must be of a level no higher than what's shown in the Apothecary table's Slot Level column for your level.</text>
+        <text>  For example, if you are a 5th-level apothecary, you have three 3rd-level spell slots. With an Intelligence of 16, your list of prepared spells can include eight spells of 1st, 2nd, or 3rd level, in any combination. To cast the 1st-level spell cure wounds, you must spend one of those slots, and you cast it as a 3rd-level spell. Casting a spell doesn't remove it from your list of prepared spells.</text>
+        <text>  You can change your list of prepared spells when you finish a long rest. Preparing a new list of apothecary spells requires at least 1 minute per spell level for each spell on your list.</text>
+        <text></text>
+        <text>Spellcasting Ability:</text>
+        <text>   Intelligence is your spellcasting ability for your apothecary spells, so you use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an apothecary spell you cast and when making an attack roll with one.</text>
+        <text></text>
+        <text>Ritual Casting:</text>
+        <text>   You can cast an apothecary spell as a ritual if that spell has the ritual tag and you have the spell prepared.</text>
+        <text></text>
+        <text>Spellcasting Focus:</text>
+        <text>   You can use an arcane focus as a spellcasting focus for your apothecary spells.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 135</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature>
+          <name>Occult Practices</name>
+        <text>At 1st level, you take up one of the Occult Practices, a chosen discipline which defines your ongoing research of the body and spirit: the Alienist, the Chemist, the Exorcist, the Mutagenist, the Pathogenist, or the Reanimator.</text>
+        <text>Your choice grants you additonal proficiencies and an expanded spell list at 1st level, and additional class features at 3rd, 6th, 10th, 14th, and 18th level.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>Occult Practices: The Mutagenist</name>
+        <text>Mutagenists have has researched a serum that they inject to transform into a monstrous form. They use themselves as the conduit for this power and hurl themselves towards their enemies as a hulking abomination. They spend their lives researching and discovering new ways to improve and modify the serum in hopes of becoming the perfect form.</text>
+        <text></text>
+        <text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Mutagenist Spells table. These spells count as apothecary spells for you, but they don’t count against the number of apothecary spells you prepare.</text>
+        <text></text>
+        <text>Mutagenist Spells</text>
+        <text>Spell Level | Spells</text>
+        <text>1st | jump, toxic shield</text>
+        <text>2nd | alter self, enhance ability</text>
+        <text>3rd | haste, water breathing</text>
+        <text>4th | polymorph, stoneskin</text>
+        <text>5th | reincarnate, septic shock</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 143</text>
+        </feature>
+      </autolevel>
+    <autolevel level="1">
+        <feature optional="YES">
+          <name>The Mutagenist: Natural Philosophy</name>
+        <text>You gain proficiency with alchemist's supplies and either the herbalism kit or poisoner's kit. You also gain proficiency in two additional languages and the Nature Skill. If you already have this proficiency, you gain proficiency with another skill of your choice.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 143</text>
+        </feature>
+      </autolevel>
+    <autolevel level="2">
+        <slots>3</slots>
+      </autolevel>
+    <autolevel level="2">
+        <feature>
+          <name>Esoteric Theories</name>
+        <text>You have discovered esoteric theories, scraps of forbidden lore that you can use to augment your magical abilities.</text>
+        <text>   At 2nd level, you gain two esoteric theories of your choice. Your theory options are detailed at the end of the class description. When you gain certain apothecary levels, you gain additional theories of your choice, as shown in the Theories Known column of the Apothecary table.</text> 
+        <text>Additionally, when you gain a level in this class, you can choose one of the theories you know and replace it with another theory that you could learn at that level.</text>
+        <text>A level prerequisite in an invocation refers to apothecary level, not character level.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="3">
+        <slots>3</slots>
+      </autolevel>
+      <autolevel level="3">
+        <feature>
+          <name>Occult Practices feature</name>
+        <text>At 3th level, you gain a feature granted by your Occult Practices.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+     <autolevel level="3">
+        <feature optional="YES">
+          <name>The Mutagenist: Transmogrifying Elixir</name>
+        <text>As a bonus action, you may expend a spell slot to undergo a grotesque transformation. The transformation ends after one minute, or if you are reduced to 0 hit points or incapacitated. When you undergo this transformation you maintain your personality, alignment, and game statistics. However, several changes occur:</text>
+        <text>• Your Strength and Intelligence ability scores are swapped.</text>
+        <text>• Your size becomes Large, your jump distance is doubled, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.</text>
+        <text>• Each of your hands transform into a big meaty fist, which you can use to make melee weapon attacks. It counts as a simple weapon for you. Your big meaty fists deal 1d10 + your Strength modifier + your Apothecary level bludgeoning damage on a hit. h You cannot cast or concentrate on spells.</text>
+        <text>• You have darkvision out to a range of 120 feet.</text>
+        <text>• You gain temporary hit points equal to five times your Apothecary level.</text>
+        <text></text>
+        <text>You also amplify your abilities based on the potency of your concoction. This is related to the spell slot you used to undergo the transformation:</text>
+        <text>• Your speed increases by 5 feet per level of spell slot used.</text>
+        <text>• Your AC is 13 + the level of spell slot used.</text>
+        <text>• At the start of each of your turns and as long as you have at least 1 hit point remaining, you regain a number of hit points equal to the level of the spell slot used.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 144</text>
+        </feature>
+      </autolevel>
+    <autolevel level="4">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="4" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="5">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="6">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="6">
+        <feature>
+          <name>Occult Practices feature</name>
+        <text>At 6th level, you gain a feature granted by your Occult Practices.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="6">
+        <feature optional="YES">
+          <name>The Mutagenist: Extra Attack</name>
+        <text>Beginning at 6th level, you attack twice, instead of once, whenever you take the Attack action on your turn.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 144</text>
+        </feature>
+      </autolevel>
+      <autolevel level="6">
+        <feature optional="YES">
+          <name>The Mutagenist: Potent Biology</name>
+        <text>When you are in your transmogrified form, you have more powerful attacks capable of bypassing your enemy's greatest defenses. Your big meaty fist attacks count as magical for overcoming resistance and immunity to non-magical attacks and damage.</text>
+        <text>When you hit with an attack using your big meaty fists, you can expend a spell slot to empower the force of your blow with unnatural energy. When you expend a spell slot in this way you deal an additional 1d8 force damage per level of spell slot used.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 144</text>
+        </feature>
+      </autolevel>
+    <autolevel level="7">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="8">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="8" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="9">
+        <slots>4</slots>
+      </autolevel>
+    <autolevel level="10">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="10">
+        <feature>
+          <name>Occult Practices feature</name>
+        <text>At 10th level, you gain a feature granted by your Occult Practices.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="10">
+        <feature optional="YES">
+          <name>The Mutagenist: Adaptive Genetics</name>
+        <text>You are able to use your changed biology to protect yourself from the clutches of death. When you are reduced to 0 hit points in either your natural, or transmogrified state, your other self is ready to take over.</text>
+        <text>• When in your natural form and reduced to 0 hit points you can immediately transform using your Transmogrifying Elixir feature expending a spell slot as normal. You regain a number of hit points equal to your Apothecary level when you do (in addition to gaining temporary hit points from your transformation).</text>
+        <text>• When you are reduced to 0 hit points in your transmogrified form, you revert to your natural form with 1 hit point remaining. If you do, you can't assume your transmogrified form again until you finish a short or long rest.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 144</text>
+        </feature>
+      </autolevel>
+    <autolevel level="11">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="11">
+        <feature>
+          <name>Greater Formula (6th level)</name>
+        <text>At 11th level, you discover a magical secret called a Greater Formula. Choose one 6th-level spell from the apothecary spell list as this formula.</text>
+        <text>You can cast your Greater Formula once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text>At higher levels, you gain more apothecary spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You learn an additional 6th level spell at 19th level, and an additional 7th level spell at 20th level.</text>
+        <text>You regain all uses when you finish a long rest.</text>
+        <text>Master Reformulation: Whenever you finish a long rest and consult your formula book, you can replace one spell you gained from this feature with another spell of the same level from the Apothecary spell list.</text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="12">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="12" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="13">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="13">
+        <feature>
+          <name>Greater Formula (7th level)</name>
+        <text>At 13th level, you discover a magical secret called a Greater Formula. Choose one 7th-level spell from the apothecary spell list as this formula.</text>
+        <text>You can cast your Greater Formula once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="14">
+        <feature>
+          <name>Occult Practices feature</name>
+        <text>At 14th level, you gain a feature granted by your Occult Practices.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="14">
+        <feature optional="YES">
+          <name>The Mutagenist: Unnatural Evolution</name>
+        <text>You can use your Greater Formulas feature to transmogrify as if you had used a spell slot of that level. When you transform in this way you gain one of the additional genome mutations listed below.</text>
+        <text>• Draconic Genome. You grow fleshy wings from your back and your skin takes on a scaly appearance. You gain a flying speed equal to your walking speed and as an action can spew bile in a 30-foot cone. All creatures in the area must succeed on a Constitution saving throw against your spell save DC or take 8d6 acid damage, or half as much on a successful save. Once you use this feature, you can not do so again until you finish a short or long rest.</text>
+        <text>• Giant Genome. You become a hulking mass of flesh and muscle, turning yourself into a living siege weapon. Your size becomes Huge and all damage dealt to objects and structures is now doubled. As an action, you can expend a spell slot on your turn to slam your fists into the ground, sending shockwaves and rubble crashing around you. All creatures in a 30-foot radius centered on you must succeed on a Dexterity saving throw against your spell save DC or they take 8d6 bludgeoning damage and are knocked prone. If they succeed on the saving throw, they take half damage and are not knocked prone.</text>
+        <text>• Cerebellum Genome. You maintain a fraction of your mind as you transform, allowing remnants of your studies to linger in your monstrous brain. You now have the ability to maintain concentration on spells while in your transmogrified form. While transmogrified, your concentration can't be broken as a result of taking damage.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 144</text>
+        </feature>
+      </autolevel>
+    <autolevel level="15">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="15">
+        <feature>
+          <name>Greater Formula (8th level)</name>
+        <text>At 15th level, you discover a magical secret called a Greater Formula. Choose one 8th-level spell from the apothecary spell list as this formula.</text>
+        <text>You can cast your Greater Formula once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="16">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="16" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="17">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="17">
+        <feature>
+          <name>Greater Formula (9th level)</name>
+        <text>At 17th level, you discover a magical secret called a Greater Formula. Choose one 9th-level spell from the apothecary spell list as this formula.</text>
+        <text>You can cast your Greater Formula once without expending a spell slot. You must finish a long rest before you can do so again.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="18">
+        <slots>5</slots>
+      </autolevel>
+      <autolevel level="18">
+        <feature>
+          <name>Occult Practices feature</name>
+        <text>At 14th level, you gain a feature granted by your Occult Practices.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+      <autolevel level="18">
+        <feature optional="YES">
+          <name>The Mutagenist: The New Flesh</name>
+        <text>You have perfected your Transmogrifying Elixir, breaking the confines of evolution and pushing your form to what you deem the apex of evolution. You gain the following benefits while transmogrified:</text>
+        <text>• As long as you have one or more hit points remaining, you can use a bonus action and expend a spell slot to regain hit points equal to ten times the level of the spell slot used.</text>
+        <text>• If you fail a saving throw, as a reaction you can expend a spell slot to succeed instead.</text>
+        <text>• Your Strength score becomes equal to your Intelligence score when transmogrified. Additionally, you can cast spells while in your transmogrified form.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 144</text>
+        </feature>
+      </autolevel>
+    <autolevel level="19">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="19" scoreImprovement="YES">
+        <feature>
+          <name>Ability Score Improvement</name>
+        <text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.</text>
+        <text>If your DM allows the use of feats, you may instead take a feat.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    <autolevel level="20">
+        <slots>5</slots>
+      </autolevel>
+    <autolevel level="20">
+        <feature>
+          <name>Miraculous Recovery</name>
+        <text>At 20th level, you can spend 5 minutes channeling power into a number of creatures (which can include yourself) equal to your Intelligence modifier to facilitate an abnormally fast recovery. You must tend to the creatures during this period, using a healer's kit with at least one use remaining. The targets regain hit points, spell slots, hit dice, and other abilities as if they completed a long rest. A creature can only benefit from one Miraculous Recovery in a 24-hour period. Once you use this feature, you can't do so again until you finish a long rest.</text>
+        <text></text>
+        <text>Source: Sebastian Crowe's: Guide to Drakkenheim p. 136</text>
+        </feature>
+      </autolevel>
+    </class>
+  </compendium>
