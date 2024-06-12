@@ -70,7 +70,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 186</text>
     <components>V, S, M (a vial of stomach acid and a pinch of sulfate)</components>
     <duration>Instantaneous</duration>
     <text>You create an orb of acid gel and fling it at one creature within range. Make a ranged spell attack against the target. On a hit, the target takes 2d6 acid damage. Whether the attack hits or misses, the orb explodes. The target and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 2d6 acid damage.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the exploding acid damage increases by 1d6 for each slot level above 1st.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the exploding acid damage increases by 1d6 for each slot level above 1st.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <roll>2d6</roll>
     <roll>3d6</roll>
@@ -108,7 +108,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <components>S, M (a drop of dwarven blood)</components>
     <duration>Concentration, up to 1 minute</duration>
     <text>You gain resistance to poison damage and advantage on saves against being poisoned for the duration. In addition, whenever a creature within 5 feet of you hits you with a melee attack, the shield sprays them with poison, dealing 1d8 poison damage to the attacker.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the poison damage increases by 1d8 for every 2 slot levels above 1st.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the poison damage increases by 1d8 for every 2 slot levels above 1st.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <roll>1d8</roll>
     <roll>2d8</roll>
@@ -129,7 +129,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <text>Choose a creature you can see within range to inflict with a magical poison. The target takes 2d4 poison damage and must make a Constitution saving throw. On a failed saving throw, it becomes poisoned for the spell's duration.
 While poisoned in this way, the target must make a Constitution saving throw at the end of each of its turns. It takes 2d4 poison damage on a failed saving throw. On a success, the spell ends on that target.
 A lesser restoration spell cast on the target ends this spell early.
-At Higher Levels. If you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+At Higher Levels: If you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <roll>2d4</roll>
     </spell>
@@ -146,7 +146,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <text>You inflict a creature you can see within range with a magical disease. At the start of each of the target's turns, it must make
 a Constitution saving throw. The creature takes 1d12 necrotic damage on a failed saving throw, or half as much on a successful one. If a target succeeds on three of these saves, the spell ends.
 A lesser restoration spell cast on the target ends this spell early.
-At Higher Levels. If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d12 for every two slot levels above 1st.
+At Higher Levels: If you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d12 for every two slot levels above 1st.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <roll>1d12</roll>
     <roll>2d12</roll>
@@ -165,7 +165,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <components>V, S, M (a withered root and a drop of vinegar)</components>
     <duration>1 minute</duration>
     <text>You coat a 15-foot-wide cube with toxic sludge for the spell's duration. The area is difficult terrain and filled with dangerous fumes. A creature that enters the area or starts its turn there must make a Constitution saving throw. On a failed saving throw, the creature takes 1d8 poison damage and is poisoned until the start of its next turn. Creatures are affected even if they hold their breath or don't need to breathe.
-At Higher Levels. If you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+At Higher Levels: If you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
     <roll>1d8</roll>
     <roll>2d8</roll>
@@ -187,7 +187,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 187</text>
 of you. On a hit, you deal 4d4 acid damage to the target, and the creature is restrained in your acidic grip until the end of your next turn. You can attack the same target round after round, or choose
 a new one at any time. If you switch targets, the prior target is no longer affected by the spell.
 A creature restrained by your grip can use its action to make a Strength check against your spell save DC. If it succeeds, it is no longer restrained. Each time a creature ends its turn restrained by this spell, it takes an additional 4d4 acid damage.
-At Higher Levels. If you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
+At Higher Levels: If you cast this spell using a spell slot of 3rd level or higher, the damage increases by 2d4 for each slot level above 2nd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <roll>4d4</roll>
     <roll>6d4</roll>
@@ -210,7 +210,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <duration>Instantaneous</duration>
     <text>A flock of floating spectral hands appear and grasp a target you can see within range. The target must succeed on a Strength saving throw. A target takes 3d8 necrotic damage on a failed save, or half as much damage on a successful one.
     In addition, on a failed saving throw the ghostly hands grapple the target until the end of your next turn, and immediately move the target up to 30 feet in a direction of your choice (but not upward). On its turn, the creature can use an action to attempt to escape the grapple by making a Strength or Dexterity check (its choice) against your spell save DC. If it succeeds, the grapple ends.
-At Higher Levels. If you cast this spell using a spell slot of 3rd level or higher, the grasping ghost can target one additional creature within range for each spell level above 2nd.
+At Higher Levels: If you cast this spell using a spell slot of 3rd level or higher, the grasping ghost can target one additional creature within range for each spell level above 2nd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <roll>3d8</roll>
     </spell>
@@ -225,7 +225,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <components>S, M (a syringe and a blood sample)</components>
     <duration>1 hour</duration>
     <text>Choose up to three creatures within range. Each target gains 10 temporary hit points.
-At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points increase by 5 for each slot level above 2nd.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points increase by 5 for each slot level above 2nd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     </spell>
     <spell>
@@ -239,7 +239,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <components>V, S</components>
     <duration>Instantaneous</duration>
     <text>Make a ranged spell attack against a creature you can see in range. If you hit, you wrack the creature with a deadly toxin that causes their eyes to bleed. The creature takes 2d6 necrotic damage and is blinded until the end of your next turn.
-At Higher Levels. When you cast this spell using a spell slot of 3rd level or higher, the necrotic damage increases by 1d6 for each slot above 2nd.
+At Higher Levels: When you cast this spell using a spell slot of 3rd level or higher, the necrotic damage increases by 1d6 for each slot above 2nd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <roll>2d6</roll>
     <roll>3d6</roll>
@@ -262,7 +262,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <duration>Instantaneous</duration>
     <text>A spew of acrid chemicals erupts from your hands. Each creature in a 30-foot cone must make a Dexterity saving throw. A creature takes 10d4 acid damage on a failed save, or half as much damage on a successful one.
 The acid destroys any objects made of organic materials in the spell's area. A creature killed by this spell has its flesh entirely dissolved, leaving behind only a corroded skeleton.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the acid damage increases by 2d4 for each slot level above 3rd.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the acid damage increases by 2d4 for each slot level above 3rd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <roll>10d4</roll>
     <roll>12d4</roll>
@@ -284,7 +284,7 @@ Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <duration>Concentration, 1 minute</duration>
     <text>You coat a weapon you touch in an acidic substance. Until the spell ends, weapon attacks made with it deal an extra 2d4 acid damage on a hit. If the weapon isn't already a magic weapon, it becomes one for the duration.
 In addition, a creature hit with a melee attack using the weapon must make a Constitution saving throw. On a failed save, it becomes poisoned until the end of the attacker's next turn.
-At Higher Levels. When you cast this spell using a spell slot of 4th level or higher, the acid damage increases by 1d4 for each slot level above 3rd.
+At Higher Levels: When you cast this spell using a spell slot of 4th level or higher, the acid damage increases by 1d4 for each slot level above 3rd.
 Source: Sebastian Crowe's: Guide to Drakkenheim p. 188</text>
     <roll>2d4</roll>
     <roll>3d4</roll>
